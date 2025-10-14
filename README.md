@@ -22,12 +22,11 @@ Ecosistema de desarrollo utilizado para la ejecución del laboratorio:
 
 - **PHP versión:** 8.1 o superior  
 - **Composer:** última versión estable  
-- **Laravel Installer:** o instalación por `composer create-project`  
-- **Servidor web local:** XAMPP / WAMP / Laragon  
-- **Servidor web:** Apache o Nginx  
-- **Base de datos:** MySQL o MariaDB  
+- **Instalación :** por `composer create-project`  
+- **Servidor web local:** XAMPP
+- **Servidor web:** Apache 
+- **Base de datos:** MySQL
 - **Editor de código:** Visual Studio Code  
-- **NPM:** utilizado para compilación de assets  
 - **Sistema operativo:** Windows 10  
 - **Navegador web:** Google Chrome  
 
@@ -71,15 +70,7 @@ php artisan serve
 
 ## 🔐 3. Laravel para Autenticación
 
-### Opción 1: Laravel/ui
-
-```bash
-composer require laravel/ui
-php artisan ui bootstrap --auth
-npm install && npm run dev
-```
-
-### Opción 2: Laravel Breeze (UI moderna con Blade)
+### Laravel Breeze (UI moderna con Blade)
 
 ```bash
 composer require laravel/breeze --dev
@@ -115,16 +106,6 @@ Las tablas se generan mediante las migraciones incluidas en Laravel:
 ```bash
 php artisan migrate
 ```
-
-**Ejemplo de tabla generada:**
-
-* users
-* password_resets
-* personal_access_tokens
-
-**Respaldo:** Se recomienda generar una copia desde phpMyAdmin en formato `.sql`.
-
-📁 Carpeta sugerida: `/database/backups/login_laravel_backup.sql`
 
 ---
 
