@@ -138,6 +138,19 @@ php artisan migrate
 * [ ] Vista del Dashboard autenticado
 * [ ] Visualización de la tabla `users` en phpMyAdmin
 
+
+### 📍 Página de inicio de Laravel  
+![Página de inicio](https://github.com/britval/Ing_Web/blob/main/imagenes/home-laravel.png)
+
+### 🔐 Formulario de Login  
+![Formulario de Login](https://github.com/britval/Ing_Web/blob/main/imagenes/login-formulario.png)
+
+### 📝 Formulario de Registro  
+![Formulario de Registro](https://github.com/britval/Ing_Web/blob/main/imagenes/registro-formulario.png)
+
+### 🧭 Dashboard autenticado  
+![Dashboard autenticado](https://github.com/britval/Ing_Web/blob/main/imagenes/dashboard-autenticado.png)
+
 ---
 
 ## ⚠️ 7. Dificultades y Soluciones
