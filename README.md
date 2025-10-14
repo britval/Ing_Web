@@ -130,26 +130,13 @@ php artisan migrate
 
 ## 🖼️ 6. Resultados del Laboratorio
 
-📸 *Insertar las evidencias correspondientes aquí:*
+![Página de inicio](https://github.com/britval/Ing_Web/blob/main/introduccion_laravel/imagenes/home-laravel.png)
 
-* [ ] Página de inicio de Laravel
-* [ ] Formulario de Login
-* [ ] Formulario de Registro
-* [ ] Vista del Dashboard autenticado
-* [ ] Visualización de la tabla `users` en phpMyAdmin
+![Formulario de Login](https://github.com/britval/Ing_Web/blob/main/introduccion_laravel/imagenes/login-formulario.png)
 
+![Formulario de Registro](https://github.com/britval/Ing_Web/blob/main/introduccion_laravel/imagenes/registro-formulario.png)
 
-### 📍 Página de inicio de Laravel  
-![Página de inicio](https://github.com/britval/Ing_Web/blob/main/imagenes/home-laravel.png)
-
-### 🔐 Formulario de Login  
-![Formulario de Login](https://github.com/britval/Ing_Web/blob/main/imagenes/login-formulario.png)
-
-### 📝 Formulario de Registro  
-![Formulario de Registro](https://github.com/britval/Ing_Web/blob/main/imagenes/registro-formulario.png)
-
-### 🧭 Dashboard autenticado  
-![Dashboard autenticado](https://github.com/britval/Ing_Web/blob/main/imagenes/dashboard-autenticado.png)
+![Dashboard autenticado](https://github.com/britval/Ing_Web/blob/main/introduccion_laravel/imagenes/dashboard-autenticado.png)
 
 ---
 
