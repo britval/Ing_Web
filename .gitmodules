@@ -4,3 +4,6 @@
 [submodule "introduccion_laravel"]
 	path = introduccion_laravel
 	url = https://github.com/britval/introduccion_laravel.git
+[submodule "practica_clase01"]
+	path = practica_clase01
+	url = https://github.com/britval/practica_clase01.git
