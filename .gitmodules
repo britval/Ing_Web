@@ -10,3 +10,6 @@
 [submodule "Laboratorio_del_Crud"]
 	path = Laboratorio_del_Crud
 	url = https://github.com/britval/Laboratorio_del_Crud.git
+[submodule "Laboratorio_Autenticacion_2FA"]
+	path = Laboratorio_Autenticacion_2FA
+	url = https://github.com/britval/Laboratorio_autenticacion_2FA.git
