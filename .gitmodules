@@ -7,3 +7,6 @@
 [submodule "practica_clase01"]
 	path = practica_clase01
 	url = https://github.com/britval/practica_clase01.git
+[submodule "Laboratorio_del_Crud"]
+	path = Laboratorio_del_Crud
+	url = https://github.com/britval/Laboratorio_del_Crud.git
