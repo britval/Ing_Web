@@ -1,3 +1,6 @@
 [submodule "MiniProyecto1"]
 	path = MiniProyecto1
 	url = https://github.com/britval/MiniProyecto1.git
+[submodule "introduccion_laravel"]
+	path = introduccion_laravel
+	url = https://github.com/britval/introduccion_laravel.git
