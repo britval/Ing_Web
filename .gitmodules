@@ -19,3 +19,6 @@
 [submodule "api-productos"]
 	path = api-productos
 	url = https://github.com/britval/api-productos.git
+[submodule "Parcial3"]
+    path = Parcial3
+    url = https://github.com/britval/Parcial3.git
