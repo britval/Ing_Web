@@ -1,24 +1,25 @@
 [submodule "MiniProyecto1"]
-	path = MiniProyecto1
-	url = https://github.com/britval/MiniProyecto1.git
+    path = MiniProyecto1
+    url = https://github.com/britval/MiniProyecto1.git
 [submodule "introduccion_laravel"]
-	path = introduccion_laravel
-	url = https://github.com/britval/introduccion_laravel.git
+    path = introduccion_laravel
+    url = https://github.com/britval/introduccion_laravel.git
 [submodule "practica_clase01"]
-	path = practica_clase01
-	url = https://github.com/britval/practica_clase01.git
+    path = practica_clase01
+    url = https://github.com/britval/practica_clase01.git
 [submodule "Laboratorio_del_Crud"]
-	path = Laboratorio_del_Crud
-	url = https://github.com/britval/Laboratorio_del_Crud.git
+    path = Laboratorio_del_Crud
+    url = https://github.com/britval/Laboratorio_del_Crud.git
 [submodule "Laboratorio_Autenticacion_2FA"]
-	path = Laboratorio_Autenticacion_2FA
-	url = https://github.com/britval/Laboratorio_autenticacion_2FA.git
+    path = Laboratorio_Autenticacion_2FA
+    url = https://github.com/britval/Laboratorio_autenticacion_2FA.git
 [submodule "api-crud-fetch"]
-	path = api-crud-fetch
-	url = https://github.com/britval/api-crud-fetch.git
+    path = api-crud-fetch
+    url = https://github.com/britval/api-crud-fetch.git
 [submodule "api-productos"]
-	path = api-productos
-	url = https://github.com/britval/api-productos.git
+    path = api-productos
+    url = https://github.com/britval/api-productos.git
 [submodule "Prueba-Practica"]
-	path = Prueba-Practica
-	url = https://github.com/britval/Prueba-Practica.git
+    path = Prueba-Practica
+    url = https://github.com/britval/Prueba-Practica.git
+
