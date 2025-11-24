@@ -13,3 +13,6 @@
 [submodule "Laboratorio_Autenticacion_2FA"]
 	path = Laboratorio_Autenticacion_2FA
 	url = https://github.com/britval/Laboratorio_autenticacion_2FA.git
+[submodule "api-crud-fetch"]
+	path = api-crud-fetch
+	url = https://github.com/britval/api-crud-fetch.git
