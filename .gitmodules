@@ -19,6 +19,3 @@
 [submodule "api-productos"]
 	path = api-productos
 	url = https://github.com/britval/api-productos.git
-[submodule "Prueba-Practica"]
-	path = Prueba-Practica
-	url = https://github.com/britval/Prueba-Practica.git
